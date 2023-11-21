@@ -317,6 +317,37 @@ const data = [
     color: "black",
     category: "flats",
   },
+  {
+    img: "https://m.media-amazon.com/images/I/61DCMsYL4WL._AC_SX675_.jpg",
+    title: "adidas Originals Men's Adilette Lite Slide",
+    star: <AiFillStar className="ratings-star" />,
+    reviews: "(123 reviews)",
+    prevPrice: "$140,00",
+    newPrice: "50",
+    company: "Adidas",
+    color: "white",
+    category: "sandals",
+  },{
+    img: "https://m.media-amazon.com/images/I/71ddLGckz9L._AC_SX695_.jpg",
+    title: "adidas unisex-adult Adilette Aqua Slides",
+    star: <AiFillStar className="ratings-star" />,
+    reviews: "(123 reviews)",
+    prevPrice: "$140,00",
+    newPrice: "50",
+    company: "Adidas",
+    color: "black",
+    category: "sandals",
+  },{
+    img: "https://m.media-amazon.com/images/I/61Ldw7Rxk0L._AC_SY675_.jpg",
+    title: "Nike Women's Open Toe",
+    star: <AiFillStar className="ratings-star" />,
+    reviews: "(123 reviews)",
+    prevPrice: "$140,00",
+    newPrice: "100",
+    company: "Adidas",
+    color: "black",
+    category: "sandals",
+  },
 ];
 
 export default data;
